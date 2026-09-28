@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 2 problems · 0 labs · 1 math
+**4** solved · 2 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-09-28 | [solution](math/0020-bayes-theorem) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-28 | [solution](math/0028-bayesian-methods) |
 
 ---

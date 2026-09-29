@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T05:27:23.564Z",
+  "generated_at": "2026-09-29T04:40:05.509Z",
   "items": {
     "problem:337": {
       "kind": "problem",
@@ -48,6 +48,19 @@
       "path": "math/0020-bayes-theorem",
       "first_solved_at": "2026-09-28T05:30:07.089Z",
       "last_pushed_at": "2026-09-28T05:30:07.089Z"
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-09-29T04:42:50.214Z",
+      "last_pushed_at": "2026-09-29T04:42:50.214Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }

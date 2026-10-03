@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 10 problems · 0 labs · 2 math
+**13** solved · 11 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-10-01 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-09-28 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-10-02 | [solution](problems/1107-count-rows-per-group) |
+| [Delete Duplicate Emails Keeping One](https://www.deep-ml.com/problems/1112) | easy | 2026-10-03 | [solution](problems/1112-delete-duplicate-emails-keeping-one) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-29 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-02 | [solution](problems/1109-your-first-join) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-10-01 | [solution](problems/0246-birthday-problem-probability) |

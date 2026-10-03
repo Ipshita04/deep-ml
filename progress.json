@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:14:21.093Z",
+  "generated_at": "2026-10-03T05:32:17.808Z",
   "items": {
     "problem:337": {
       "kind": "problem",
@@ -150,6 +150,19 @@
       "path": "problems/1111-top-3-salaries-per-department",
       "first_solved_at": "2026-10-03T05:17:10.560Z",
       "last_pushed_at": "2026-10-03T05:17:10.560Z",
+      "language": "sql",
+      "lines": 5
+    },
+    "problem:1112": {
+      "kind": "problem",
+      "id": "1112",
+      "title": "Delete Duplicate Emails Keeping One",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1112",
+      "path": "problems/1112-delete-duplicate-emails-keeping-one",
+      "first_solved_at": "2026-10-03T05:35:07.286Z",
+      "last_pushed_at": "2026-10-03T05:35:07.286Z",
       "language": "sql",
       "lines": 5
     }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 17 problems · 0 labs · 2 math
+**20** solved · 18 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-02 | [solution](problems/1109-your-first-join) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-10-01 | [solution](problems/0246-birthday-problem-probability) |
 | [Days Warmer Than the Previous Day](https://www.deep-ml.com/problems/1118) | medium | 2026-10-04 | [solution](problems/1118-days-warmer-than-the-previous-day) |
+| [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-10-05 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-28 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Month-over-Month Percentage Change with LAG](https://www.deep-ml.com/problems/1115) | medium | 2026-10-04 | [solution](problems/1115-month-over-month-percentage-change-with-lag) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-10-02 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T04:47:00.981Z",
+  "generated_at": "2026-10-05T05:01:31.425Z",
   "items": {
     "problem:337": {
       "kind": "problem",
@@ -230,6 +230,19 @@
       "last_pushed_at": "2026-10-05T04:49:52.040Z",
       "language": "sql",
       "lines": 5
+    },
+    "problem:1119": {
+      "kind": "problem",
+      "id": "1119",
+      "title": "Cohort Retention: First Login and Consecutive-Day Logins",
+      "difficulty": "hard",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1119",
+      "path": "problems/1119-cohort-retention-first-login-and-consecutive-day-logins",
+      "first_solved_at": "2026-10-05T05:04:22.537Z",
+      "last_pushed_at": "2026-10-05T05:04:22.537Z",
+      "language": "sql",
+      "lines": 11
     }
   }
 }

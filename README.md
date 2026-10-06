@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 19 problems · 0 labs · 2 math
+**22** solved · 20 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-02 | [solution](problems/1109-your-first-join) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-10-01 | [solution](problems/0246-birthday-problem-probability) |
 | [Days Warmer Than the Previous Day](https://www.deep-ml.com/problems/1118) | medium | 2026-10-04 | [solution](problems/1118-days-warmer-than-the-previous-day) |
+| [Each Customer's Lowest-Priced Order](https://www.deep-ml.com/problems/1122) | medium | 2026-10-06 | [solution](problems/1122-each-customer-s-lowest-priced-order) |
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-10-05 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Highest-Paid Workers with Title Join and Ties](https://www.deep-ml.com/problems/1121) | medium | 2026-10-06 | [solution](problems/1121-highest-paid-workers-with-title-join-and-ties) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-28 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |

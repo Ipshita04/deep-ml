@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:04:41.279Z",
+  "generated_at": "2026-10-06T04:17:25.600Z",
   "items": {
     "problem:337": {
       "kind": "problem",
@@ -295,6 +295,19 @@
       "last_pushed_at": "2026-10-06T04:07:33.883Z",
       "language": "sql",
       "lines": 13
+    },
+    "problem:1125": {
+      "kind": "problem",
+      "id": "1125",
+      "title": "Top-N Percent by Group with NTILE",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1125",
+      "path": "problems/1125-top-n-percent-by-group-with-ntile",
+      "first_solved_at": "2026-10-06T04:20:18.325Z",
+      "last_pushed_at": "2026-10-06T04:20:18.325Z",
+      "language": "sql",
+      "lines": 6
     }
   }
 }

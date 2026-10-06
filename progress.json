@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T03:56:24.881Z",
+  "generated_at": "2026-10-06T04:04:41.279Z",
   "items": {
     "problem:337": {
       "kind": "problem",
@@ -282,6 +282,19 @@
       "last_pushed_at": "2026-10-06T03:59:16.896Z",
       "language": "sql",
       "lines": 11
+    },
+    "problem:1123": {
+      "kind": "problem",
+      "id": "1123",
+      "title": "Top-N Most Profitable Companies with DENSE_RANK",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1123",
+      "path": "problems/1123-top-n-most-profitable-companies-with-dense-rank",
+      "first_solved_at": "2026-10-06T04:07:33.883Z",
+      "last_pushed_at": "2026-10-06T04:07:33.883Z",
+      "language": "sql",
+      "lines": 13
     }
   }
 }

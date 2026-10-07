@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 25 problems · 0 labs · 2 math
+**28** solved · 26 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-10-02 | [solution](problems/1107-count-rows-per-group) |
 | [Delete Duplicate Emails Keeping One](https://www.deep-ml.com/problems/1112) | easy | 2026-10-03 | [solution](problems/1112-delete-duplicate-emails-keeping-one) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-29 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
+| [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-10-07 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-02 | [solution](problems/1109-your-first-join) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-10-01 | [solution](problems/0246-birthday-problem-probability) |
 | [Days Warmer Than the Previous Day](https://www.deep-ml.com/problems/1118) | medium | 2026-10-04 | [solution](problems/1118-days-warmer-than-the-previous-day) |

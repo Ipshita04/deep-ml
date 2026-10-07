@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T04:19:28.862Z",
+  "generated_at": "2026-10-07T04:40:39.451Z",
   "items": {
     "problem:337": {
       "kind": "problem",
@@ -345,6 +345,19 @@
       "path": "problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric",
       "first_solved_at": "2026-10-07T04:22:22.207Z",
       "last_pushed_at": "2026-10-07T04:22:22.207Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:1128": {
+      "kind": "problem",
+      "id": "1128",
+      "title": "Handle Missing Data in pandas (dropna/fillna)",
+      "difficulty": "easy",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1128",
+      "path": "problems/1128-handle-missing-data-in-pandas-dropna-fillna",
+      "first_solved_at": "2026-10-07T04:43:32.937Z",
+      "last_pushed_at": "2026-10-07T04:43:32.937Z",
       "language": "python",
       "lines": 13
     }

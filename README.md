@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 27 problems · 0 labs · 2 math
+**30** solved · 28 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-09-28 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-10-02 | [solution](problems/1107-count-rows-per-group) |
 | [Delete Duplicate Emails Keeping One](https://www.deep-ml.com/problems/1112) | easy | 2026-10-03 | [solution](problems/1112-delete-duplicate-emails-keeping-one) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-08 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-29 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-10-07 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-02 | [solution](problems/1109-your-first-join) |

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 26 problems · 0 labs · 2 math
+**29** solved · 27 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-10-05 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Highest-Paid Workers with Title Join and Ties](https://www.deep-ml.com/problems/1121) | medium | 2026-10-06 | [solution](problems/1121-highest-paid-workers-with-title-join-and-ties) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-28 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
+| [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-10-08 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Month-over-Month Percentage Change with LAG](https://www.deep-ml.com/problems/1115) | medium | 2026-10-04 | [solution](problems/1115-month-over-month-percentage-change-with-lag) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-10-02 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 | [Rank Rows Within Partitions Using Window Functions](https://www.deep-ml.com/problems/1114) | medium | 2026-10-03 | [solution](problems/1114-rank-rows-within-partitions-using-window-functions) |

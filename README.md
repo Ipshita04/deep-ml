@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 29 problems · 0 labs · 2 math
+**32** solved · 30 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Delete Duplicate Emails Keeping One](https://www.deep-ml.com/problems/1112) | easy | 2026-10-03 | [solution](problems/1112-delete-duplicate-emails-keeping-one) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-08 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-29 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
+| [Generate Normal Samples and Compute Histogram Counts](https://www.deep-ml.com/problems/1130) | easy | 2026-10-08 | [solution](problems/1130-generate-normal-samples-and-compute-histogram-counts) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-10-07 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-02 | [solution](problems/1109-your-first-join) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-10-01 | [solution](problems/0246-birthday-problem-probability) |

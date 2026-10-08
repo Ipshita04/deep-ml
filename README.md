@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 28 problems · 0 labs · 2 math
+**31** solved · 29 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-10-01 | [solution](problems/0246-birthday-problem-probability) |
 | [Days Warmer Than the Previous Day](https://www.deep-ml.com/problems/1118) | medium | 2026-10-04 | [solution](problems/1118-days-warmer-than-the-previous-day) |
 | [Each Customer's Lowest-Priced Order](https://www.deep-ml.com/problems/1122) | medium | 2026-10-06 | [solution](problems/1122-each-customer-s-lowest-priced-order) |
+| [Efficiently Find Duplicates in a Large Dataset](https://www.deep-ml.com/problems/1089) | medium | 2026-10-08 | [solution](problems/1089-efficiently-find-duplicates-in-a-large-dataset) |
 | [Employees Earning Above Their Department Average (Correlated Subquery)](https://www.deep-ml.com/problems/1126) | medium | 2026-10-06 | [solution](problems/1126-employees-earning-above-their-department-average-correlated-subquery) |
 | [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-10-06 | [solution](problems/1113-employees-earning-more-than-their-managers) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-10-07 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |

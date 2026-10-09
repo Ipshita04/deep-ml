@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 30 problems · 0 labs · 2 math
+**33** solved · 31 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-10-07 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-10-05 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Highest-Paid Workers with Title Join and Ties](https://www.deep-ml.com/problems/1121) | medium | 2026-10-06 | [solution](problems/1121-highest-paid-workers-with-title-join-and-ties) |
+| [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-10-09 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-28 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-10-08 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Month-over-Month Percentage Change with LAG](https://www.deep-ml.com/problems/1115) | medium | 2026-10-04 | [solution](problems/1115-month-over-month-percentage-change-with-lag) |
